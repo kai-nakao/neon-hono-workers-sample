@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1713253605090,
+      "tag": "0000_glossy_cobalt_man",
+      "breakpoints": true
+    }
+  ]
+}
